@@ -1,4 +1,4 @@
-# simonw/pypi-publish
+# simonw/python-publish
 name: Publish Python Package
 
 on:
